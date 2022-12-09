@@ -1,6 +1,6 @@
-#include <stlib.h>
-#include <time.h>
 #include <stdio.h>
+#include <time.h>
+#include <stdlib.h>
 /**
  * main - block
  * Description: Get a random number and check its didit, compare it with 5
