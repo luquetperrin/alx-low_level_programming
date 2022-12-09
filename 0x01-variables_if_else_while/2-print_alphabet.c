@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <stdlib.lib>
+#include <stdlib.h>
 /**
  * main - main block
  * Description: Get a randomit with 5
